@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="botao_no_centro">botao no centro</string>
+    <string name="botao_em_baixo_da_tela">botao em baixo da tela</string>
+    <string name="nome">nome</string>
+</resources>
